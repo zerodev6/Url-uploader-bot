@@ -5,19 +5,19 @@ load_dotenv()
 
 class Config:
     # Telegram API credentials
-    APP_ID = "20288994"
-    API_HASH = "d702614912f1ad370a0d18786002adbf"
-    BOT_TOKEN = "8480282169:AAEweiaj5XbWWxzG8wfT8oExxth4Ew5sK78"
-    BOT_USERNAME = "@Urluploader_z_bot"
+    APP_ID = ""
+    API_HASH = ""
+    BOT_TOKEN = ""
+    BOT_USERNAME = "@"
     
     # Database
-    DATABASE_URL = "mongodb+srv://Zerobothost:zero8907@cluster0.szwdcyb.mongodb.net/?appName=Cluster0"
+    DATABASE_URL = ""
     
     # Logging
-    LOG_CHANNEL = "-1002897456594"
+    LOG_CHANNEL = ""
     
     # Owner
-    OWNER_ID = "8304706556"
+    OWNER_ID = ""
     
     # Session for user bot (if needed)
     SESSION_STR = os.environ.get("SESSION_STR", "")
@@ -25,7 +25,7 @@ class Config:
     # Update channel
     UPDATE_CHANNEL = "https://t.me/zerodev2"
     DEVELOPER = "@Zeroboy216"
-    BOTUSERNAME = "@Urluploader_z_bot"
+    BOTUSERNAME = "@U"
     
     # Download/Upload settings
     MAX_FILE_SIZE = 4 * 1024 * 1024 * 1024  # 4 GB
