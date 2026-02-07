@@ -11,8 +11,8 @@
 
 **A powerful Telegram bot that can download files from any URL and upload them to Telegram with lightning speed!** ⚡
 
-[![Demo Bot](https://img.shields.io/badge/🤖_Try_Demo_Bot-blue?style=for-the-badge)](https://t.me/Urluploader_z_bot)
-[![Updates Channel](https://img.shields.io/badge/📢_Updates_Channel-blue?style=for-the-badge)](https://t.me/zerodevbro)
+[![Demo Bot](https://img.shields.io/badge/🤖_Try_Demo_Bot-blue?style=for-the-badge)](https://t.me/Uploaderx_z_bot)
+[![Updates Channel](https://img.shields.io/badge/📢_Updates_Channel-blue?style=for-the-badge)](https://t.me/zerodev2)
 [![Report Bug](https://img.shields.io/badge/🐛_Report_Bug-red?style=for-the-badge)](https://github.com/zero-creation690/Url-uploader/issues)
 [![Request Feature](https://img.shields.io/badge/💡_Feature_Request-green?style=for-the-badge)](https://github.com/zero-creation690/Url-uploader/issues)
 
@@ -318,9 +318,9 @@ black .
 
 ### Getting Help
 
-- 📢 **Updates Channel**: [@zerodevbro](https://t.me/zerodevbro)
+- 📢 **Updates Channel**: [@zerodevbro](https://t.me/zerodev2)
 - 💬 **Support Group**: [@zerodevbro](https://t.me/zerodevbro)
-- 👨‍💻 **Developer**: [@Zeroboy216](https://t.me/Zeroboy216)
+- 👨‍💻 **Developer**: [@Zeroboy216](https://t.me/Zeroboyy)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/zero-creation690/Url-uploader/issues)
 
 ---
